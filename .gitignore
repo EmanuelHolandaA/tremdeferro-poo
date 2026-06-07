@@ -1,0 +1,15 @@
+# Arquivos compilados
+bin/*.class
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
