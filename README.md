@@ -74,7 +74,7 @@ Pelo VS Code:
 
 ## Equipe
 
-| Nome | RA |
+| Nome | Matícula |
 |------|----|
 |      |    |
 |      |    |
