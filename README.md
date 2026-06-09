@@ -76,6 +76,6 @@ Pelo VS Code:
 
 | Nome | Matícula |
 |------|----|
-|      |    |
-|      |    |
-|      |    |
+| Emanuel Holanda de Araújo | 2025010358 |
+| Robert Almeida da Silva | 2024010289 |
+| Thiago da Silva Dede | 2025010124 |
